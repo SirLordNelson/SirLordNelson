@@ -4,10 +4,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/search?q=vegeta+profile+pic&client=ubuntu-sn&hs=OQx&sca_esv=f602dc89620483ed&channel=fs&udm=2&biw=1310&bih=656&sxsrf=ADLYWILnwjwy1huMpZYvPDHHBcKA6oBgtg%3A1729280399730&ei=j7kSZ9acLLWL7M8PpPrsoAI&oq=vegeta+profile+&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3ZlZ2V0YSBwcm9maWxlICoCCAAyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHkjqJ1C7GVj-IHACeACQAQCYAVegAaQFqgEBOLgBA8gBAPgBAZgCCqAC5AXCAgcQABiABBgTwgIHEAAYgAQYCpgDAIgGAZIHAjEwoAe2Kg&sclient=gws-wiz-serp#vhid=tYOJ0bHbksgeQM&vssid=mosaic"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
   <img width="12" />
