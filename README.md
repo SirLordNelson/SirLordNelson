@@ -1,19 +1,16 @@
-<h2 align="left">Well, hello there!!! My name's Lord Nelson!</h2>
+## Hey there! I'm Nelson!
 
-###
+---
 
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirLordNelson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SirLordNelson&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirLordNelson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SirLordNelson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="stats graph" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirLordNelson&layout=compact&langs_count=7&theme=dracula" alt="languages graph" width="48%"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ5aTFndDgwZDJjaWU2czRzdzI0aG00OHNnam1ucHh0ZGNpdzZjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
+## 🛠️ Experience Working With
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
   <img width="15" />
@@ -31,12 +28,7 @@
   <img width="15" />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -46,4 +38,4 @@
 
 <br clear="both">
 
-###
+---
