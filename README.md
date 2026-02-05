@@ -4,8 +4,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirLordNelson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="stats graph" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirLordNelson&layout=compact&langs_count=7&theme=dracula" alt="languages graph" width="48%"/>
+  <img src="https://github-readme-stats-five-gules.vercel.app/api?username=SirLordNelson&theme=dracula" width="48%"/>
+  <img src="https://github-readme-stats-five-gules.vercel.app/api/top-langs/?username=SirLordNelson&layout=compact&theme=dracula" width="48%"/>
 </div>
 
 ---
