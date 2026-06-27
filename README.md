@@ -53,7 +53,7 @@
   <img width="15" />
   <img src="https://www.visual-paradigm.com/favicon.ico" height="35" alt="Visual Paradigm logo">
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" height="35" alt="Figma logo">
+  <img src="https://cdn.simpleicons.org/figma" height="35" alt="Figma logo">
   <img width="15" />
 </div>
 
