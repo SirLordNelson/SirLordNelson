@@ -23,7 +23,11 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo"  />
   <img width="15" />
+  <img src="https://img.shields.io/badge/Prolog-7.4-blue.svg" height="35">
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="35" alt="haskell logo"  />
+  <img width="15" />
+  <img src="https://vuejs.org/images/logo.png" alt="Vue Logo" height="35">
   <img width="15" />
 </div>
 
