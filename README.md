@@ -53,6 +53,8 @@
   <img width="15" />
   <img src="https://www.visual-paradigm.com/favicon.ico" height="35" alt="Visual Paradigm logo">
   <img width="15" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="Figma logo">
+  <img width="15" />
 </div>
 
 ---
